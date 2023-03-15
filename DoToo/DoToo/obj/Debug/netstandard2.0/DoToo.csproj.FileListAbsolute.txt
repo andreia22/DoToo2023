@@ -1,0 +1,16 @@
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.AssemblyReference.cache
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.CoreCompileInputs.cache
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.deps.json
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.dll
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.pdb
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.dll
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\refint\DoToo.dll
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.pdb
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\ref\DoToo.dll

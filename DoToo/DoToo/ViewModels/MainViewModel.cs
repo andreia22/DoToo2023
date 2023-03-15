@@ -3,10 +3,15 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using DoToo.Views;
+using Xamarin.Forms;
+using System.Windows.Input;
+using System.Linq;
+using System.Collections.ObjectModel;
 
 namespace DoToo.ViewModels
 {
-    public class MainViewModel : ViewModel
+    public class MainViewModel : ViewModel 
     {
         private readonly TodoItemRepository repository;
 
@@ -20,5 +25,14 @@ namespace DoToo.ViewModels
         {
 
         }
+
+        // Evento de click do botao para acicionar item
+
+        public ICommand AddItem => new Command(async () =>
+        {
+            var itemView = Resolver.Resolve<ItemView>();
+            await Navigation.PushAsync(itemView);
+
+        });
     }
 }
