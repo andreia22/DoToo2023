@@ -71,3 +71,5 @@ C:\Users\389487\PROG3\DoToo\DoToo\DoToo.iOS\obj\iPhone\Debug\DoToo.iOS.csproj.Co
 C:\Users\389487\PROG3\DoToo\DoToo\DoToo.iOS\obj\iPhone\Debug\DoToo.iOS.csproj.CopyComplete
 C:\Users\389487\PROG3\DoToo\DoToo\DoToo.iOS\obj\iPhone\Debug\DoToo.iOS.exe
 C:\Users\389487\PROG3\DoToo\DoToo\DoToo.iOS\obj\iPhone\Debug\DoToo.iOS.pdb
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo.iOS\bin\iPhone\Debug\Caliburn.Micro.Core.dll
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo.iOS\bin\iPhone\Debug\Caliburn.Micro.Core.pdb

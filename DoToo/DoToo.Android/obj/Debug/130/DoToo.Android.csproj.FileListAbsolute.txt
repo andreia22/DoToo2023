@@ -655,3 +655,5 @@ C:\Users\389487\PROG3\DoToo\DoToo\DoToo.Android\obj\Debug\130\stamp\_ConvertReso
 C:\Users\389487\PROG3\DoToo\DoToo\DoToo.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\389487\PROG3\DoToo\DoToo\DoToo.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\389487\PROG3\DoToo\DoToo\DoToo.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo.Android\obj\Debug\130\android\assets\Caliburn.Micro.Core.dll
+C:\Users\389487\PROG3\DoToo\DoToo\DoToo.Android\obj\Debug\130\android\assets\Caliburn.Micro.Core.pdb

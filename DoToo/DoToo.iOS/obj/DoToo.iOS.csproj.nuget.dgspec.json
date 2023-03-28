@@ -114,6 +114,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Caliburn.Micro.Core": {
+              "target": "Package",
+              "version": "[4.0.212, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

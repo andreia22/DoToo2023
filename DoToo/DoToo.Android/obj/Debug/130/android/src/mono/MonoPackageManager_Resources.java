@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "DoToo.Android.dll" comes first in this list. */
 		"DoToo.Android.dll",
 		"Autofac.dll",
+		"Caliburn.Micro.Core.dll",
 		"DoToo.dll",
 		"FormsViewGroup.dll",
 		"SQLite-net.dll",

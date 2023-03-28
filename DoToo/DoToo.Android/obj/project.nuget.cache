@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd16DgxB7M7XtLVf9kMnlVGu4jiDiKAJbv2lcxFhsrLYuGu3Z+aU1kyNpYj+adQVift+vtJ9kIoJrcYcPtILEw==",
+  "dgSpecHash": "B/vxokbSsMjYHwotRpjp+E/gqimNwojN2xOgpi8xTfkGW3zWy9Pd8ikYcGlNNsZuxiG2YXnqR/4AYMwhnqPL6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.Android\\DoToo.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\caliburn.micro.core\\4.0.212\\caliburn.micro.core.4.0.212.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\389487\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",
