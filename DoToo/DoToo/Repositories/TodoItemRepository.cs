@@ -6,6 +6,9 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// comunicação direta com o BD, query para os bancos de dados 
+
 namespace DoToo.Repositories
 {
     public class TodoItemRepository : ITodoItemRepository
@@ -67,7 +70,8 @@ namespace DoToo.Repositories
         public async Task<List<TodoItem>> GetItems()
         {
             await CreateConnection();
-            return await connection.Table<TodoItem>().ToListAsync();
+            return await connection.Table<TodoItem>()
+                            .ToListAsync();
 
         }
 

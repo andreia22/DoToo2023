@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Text;
 using Xamarin.Forms;
 
+// Papel que o controller faria, comunica o modelo e a wiew, atende solicitações desktops no proprio aparelho celular
 namespace DoToo.ViewModels
 {
     public abstract class ViewModel : INotifyPropertyChanged

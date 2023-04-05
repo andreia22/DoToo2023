@@ -3,6 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Text;
+using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace DoToo.ViewModels
 {
@@ -17,7 +19,19 @@ namespace DoToo.ViewModels
 
         public string StatusText => (Item.Completed ? "Reativar" : " Completo");
 
-       
+
+
+
+        public ICommand TogglrCompleted => new Command(
+            (arg) => { 
+                Item.Completed = !Item.Completed;
+                ItemStatusChanged?.Invoke(this, new EventArgs());
+            
+            }
+
+
+
+        );
 
     }
 }

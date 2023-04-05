@@ -2,6 +2,8 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
+// carga da tela
 namespace DoToo.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -14,6 +16,8 @@ namespace DoToo.Views
             InitializeComponent();
             viewModel.Navigation = Navigation;
             BindingContext = viewModel;
+
+            ItemsListView.ItemSelected += (s, e) => ItemsListView.SelectedItem = null;
             
         }
     }

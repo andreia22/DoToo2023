@@ -2,7 +2,7 @@
 using SQLite;
 using System.Collections.Generic;
 using System.Text;
-
+// classe pojo  com especificações dos atibutos
 namespace DoToo.Models
 {
     public  class TodoItem
