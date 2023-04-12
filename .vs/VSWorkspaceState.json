@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DoToo",
+    "\\DoToo\\DoToo",
+    "\\DoToo\\DoToo\\Repositories",
+    "\\DoToo\\DoToo\\ViewModels",
+    "\\DoToo\\DoToo\\Views"
+  ],
+  "SelectedNode": "\\DoToo\\DoToo\\Views\\ItemView.xaml",
+  "PreviewInSolutionExplorer": false
+}

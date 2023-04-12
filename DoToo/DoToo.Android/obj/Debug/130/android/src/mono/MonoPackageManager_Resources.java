@@ -7,6 +7,7 @@ public class MonoPackageManager_Resources {
 		"Caliburn.Micro.Core.dll",
 		"DoToo.dll",
 		"FormsViewGroup.dll",
+		"PropertyChanged.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_v2.dll",
 		"SQLitePCLRaw.core.dll",

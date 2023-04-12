@@ -32,14 +32,15 @@
 
         <Button 
             Style="{StaticResource FilterButton}"
-            BackgroundColor="{Binding Showall,Converter={StaticResource StatusColorConverter}}"
+            BackgroundColor="{Binding ShowAll,
+            Converter={StaticResource StatusColorConverter}}"
             TextColor="Black"                                         
             Text="{Binding FilterText, StringFormat='Filtro : {0}'}"
             Command="{Binding ToggleFilter}">
 
             <Button.Triggers>
                 <DataTrigger TargetType="Button"
-                             Binding="{Binding ShoeAll}"
+                             Binding="{Binding ShowAll}"
                              Value="True">
 
                     <Setter Property="TextColor" Value="White" />

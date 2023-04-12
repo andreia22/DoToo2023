@@ -10,14 +10,15 @@ namespace DoToo.Views
     public partial class MainView
         : ContentPage
     {
-        public MainView(MainViewModel viewModel
+        public MainView(MainViewModel viewmodel
             )
         {
             InitializeComponent();
-            viewModel.Navigation = Navigation;
-            BindingContext = viewModel;
+            viewmodel.Navigation = Navigation;
+            BindingContext = viewmodel;
 
-            ItemsListView.ItemSelected += (s, e) => ItemsListView.SelectedItem = null;
+            ItemsListView.ItemSelected += (s, e) => 
+            ItemsListView.SelectedItem = null;
             
         }
     }

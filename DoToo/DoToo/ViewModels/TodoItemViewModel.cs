@@ -22,7 +22,7 @@ namespace DoToo.ViewModels
 
 
 
-        public ICommand TogglrCompleted => new Command(
+        public ICommand ToggleCompleted => new Command(
             (arg) => { 
                 Item.Completed = !Item.Completed;
                 ItemStatusChanged?.Invoke(this, new EventArgs());

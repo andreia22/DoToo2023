@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj": {}
+    "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj": {
+    "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
         "projectName": "DoToo.iOS",
-        "projectPath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
+        "projectPath": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
         "packagesPath": "C:\\Users\\389487\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.iOS\\obj\\",
+        "outputPath": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo\\DoToo.csproj": {
-                "projectPath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo\\DoToo.csproj"
+              "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo\\DoToo.csproj": {
+                "projectPath": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo\\DoToo.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
             "Autofac": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -69,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo\\DoToo.csproj": {
+    "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo\\DoToo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo\\DoToo.csproj",
+        "projectUniqueName": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo\\DoToo.csproj",
         "projectName": "DoToo",
-        "projectPath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo\\DoToo.csproj",
+        "projectPath": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo\\DoToo.csproj",
         "packagesPath": "C:\\Users\\389487\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo\\obj\\",
+        "outputPath": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,6 +127,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JAHG3Gfk+xBE02eZlV0YfWlDTKh96D7Tl1h+YXw+0vu5HhoPJ8yADLF3DYxSTz7V82tidxpX6SZ/f4e+MLZB5w==",
+  "dgSpecHash": "5iXdyjrFf5UIwoq3p06SY2dwlUETs382yCvyYBE82B5EC+tZGSPxhoQIGxqpa0zOW9mm+N3sAWKVbXyqltOLyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\389487\\PROG3\\DoToo\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
+  "projectFilePath": "C:\\Users\\389487\\DoToo_bkp\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\caliburn.micro.core\\4.0.212\\caliburn.micro.core.4.0.212.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
